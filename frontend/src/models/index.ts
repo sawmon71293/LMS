@@ -1,0 +1,1 @@
+export type { default as IStudent } from "./Student.model";
